@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> I'm Rezza Dinulhaq</h1>
 <h3 align="center">I am a computer science student from Majalengka University</h3>
 
-<h4 align="center"> ![Rezza dinulhaq](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxOHIyNGt6a2o2MGU2eW9wcGgxaW90ZGlmc3MxNmh1NGduYTlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif)</h4>
+![Rezza dinulhaq](<h1 align="center"> I'm Rezza Dinulhaq</h1>https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxOHIyNGt6a2o2MGU2eW9wcGgxaW90ZGlmc3MxNmh1NGduYTlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif</h4>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
