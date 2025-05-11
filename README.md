@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi I'm Rezza dinulhaq 👋
+Hi I'm Rezza dinulhaq 👋
 <h3 align="center">I am a computer science student from Majalengka University</h3>
 
 ![Rezza dinulhaq](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxOHIyNGt6a2o2MGU2eW9wcGgxaW90ZGlmc3MxNmh1NGduYTlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif)
 
-#### Skills
+Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python)](https://skillicons.dev)
 
