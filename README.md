@@ -1,4 +1,8 @@
 ### Hi I'm Rezza dinulhaq 👋
+
+![Header](![github-header-image](https://github.com/user-attachments/assets/c203882c-2ace-4b96-9db7-9f7824792830)
+)
+
 <h3 align="center">I am a computer science student from Majalengka University</h3>
 
 ###
