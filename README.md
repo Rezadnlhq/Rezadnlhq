@@ -34,11 +34,9 @@ Skills
 
 <p align="left">Play Game with me</p>
 
-###
 
 <img src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/snake.svg" alt="Snake animation" />
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph-dark.svg">
@@ -46,10 +44,7 @@ Skills
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rezadnlhq/count.svg?"  />
 </div>
 
-###
