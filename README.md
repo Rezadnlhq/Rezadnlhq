@@ -18,6 +18,28 @@ Here are some ideas to get you started:
 
 ![Rezza dinulhaq](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxOHIyNGt6a2o2MGU2eW9wcGgxaW90ZGlmc3MxNmh1NGduYTlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif)
 
+<p align="left">Play Game with me</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rezadnlhq/count.svg?"  />
+</div>
+
+###
+
 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python)](https://skillicons.dev)
