@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Rezza dinulhaq 👋
+### Hi I'm Rezza dinulhaq 👋
 <h3 align="center">I am a computer science student from Majalengka University</h3>
 
 ![Rezza dinulhaq](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxOHIyNGt6a2o2MGU2eW9wcGgxaW90ZGlmc3MxNmh1NGduYTlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif)
@@ -31,20 +31,3 @@ Skills
 <a href="https://instagram.com/rzadnlhq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzadnlhq_" height="30" width="40" /></a>
 <a href="https://discord.gg/Rezadnlhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rezadnlhq" height="30" width="40" /></a>
 </p>
-
-<p align="left">Play Game with me</p>
-
-
-<img src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/snake.svg" alt="Snake animation" />
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rezadnlhq/count.svg?"  />
-</div>
-
