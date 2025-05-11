@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/rzadnlhq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzadnlhq_" height="30" width="40" /></a>
 <a href="https://discord.gg/Rezadnlhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rezadnlhq" height="30" width="40" /></a>
 </p>
+
+[![Generate pacman animation](https://github.com/Rezadnlhq/Rezadnlhq/actions/workflows/main.yml/badge.svg)](https://github.com/Rezadnlhq/Rezadnlhq/actions/workflows/main.yml)
