@@ -1,5 +1,3 @@
-
-
 <!--
 **Rezadnlhq/Rezadnlhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +32,3 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/Rezadnlhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rezadnlhq" height="30" width="40" /></a>
 </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/snake.svg" alt="Snake animation" />
