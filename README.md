@@ -3,7 +3,7 @@
 
 ![Rezza dinulhaq](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxOHIyNGt6a2o2MGU2eW9wcGgxaW90ZGlmc3MxNmh1NGduYTlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif)
 
-<p align="left">Play Game with me</p>
+### <p align="left">Play Game with me</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-Skills
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python)](https://skillicons.dev)
 
