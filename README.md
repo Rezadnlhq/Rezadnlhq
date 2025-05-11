@@ -1,6 +1,6 @@
 ### Hi I'm Rezza dinulhaq 👋
 
-<h3 align="center">I am a computer science student from Majalengka University</h3>
+<h3 align="center">I am a Informatic enginner student from Majalengka University</h3>
 
 ###
 
