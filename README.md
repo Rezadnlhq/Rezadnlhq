@@ -20,14 +20,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rezadnlhq/Rezadnlhq/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rezadnlhq/count.svg?"  />
-</div>
-
-###
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python)](https://skillicons.dev)
@@ -41,3 +33,11 @@
 <a href="https://instagram.com/rzadnlhq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzadnlhq_" height="30" width="40" /></a>
 <a href="https://discord.gg/Rezadnlhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rezadnlhq" height="30" width="40" /></a>
 </p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rezadnlhq/count.svg?"  />
+</div>
+
+###
